@@ -1,0 +1,6 @@
+{
+  "name": "AI SMART STUDENT - Game Học Tập Khoa Học Lớp 4",
+  "description": "Game tương tác thực hành về Vòng tuần hoàn của nước và sử dụng AI thông minh, an toàn, trung thực dành cho học sinh lớp 4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
